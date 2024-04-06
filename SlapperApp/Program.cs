@@ -6,7 +6,7 @@
         long result = Factorial(number);
         Console.WriteLine($"The factorial of {number} is {result}");
         Console.WriteLine("Yo C# Is Amazing\n");
-        Console.WriteLine("C# Better Than Java?");
+        Console.WriteLine("C# Better Than Java!");
     }
 
     public static long Factorial(int n)
